@@ -1,5 +1,5 @@
 
-package observerPattern;
+package shoppingStore;
 
 import java.util.*;
 

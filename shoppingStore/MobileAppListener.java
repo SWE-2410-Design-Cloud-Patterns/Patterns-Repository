@@ -1,4 +1,4 @@
-package observerPattern;
+package shoppingStore;
 
 public class MobileAppListener implements EventListener {
 

@@ -1,4 +1,4 @@
-package observerPattern;
+package shoppingStore;
 
 /**
  * interface for EventListener

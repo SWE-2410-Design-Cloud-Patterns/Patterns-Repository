@@ -1,4 +1,4 @@
-package observerPattern;
+package shoppingStore;
 
 /**
  * main class

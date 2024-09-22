@@ -1,5 +1,5 @@
 
-package observerPattern;
+package shoppingStore;
 
 /**
  * class meant for special events

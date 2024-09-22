@@ -1,5 +1,5 @@
 
-package observerPattern;
+package shoppingStore;
 
 /**
  * class for Email Message Listener
